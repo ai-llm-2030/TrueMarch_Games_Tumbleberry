@@ -16,6 +16,13 @@
   <img src="assets/screenshot-play.png" alt="Tumbleberry — gameplay" width="820">
 </p>
 
+## More screenshots
+
+<table>
+<tr><td width="50%"><img src="assets/screenshot-map.png" alt="The world map"><br><sub>The world map</sub></td><td width="50%"><img src="assets/screenshot-pantry.png" alt="Pip's Pantry: outfits and upgrades"><br><sub>Pip's Pantry: outfits and upgrades</sub></td></tr>
+<tr><td width="50%"><img src="assets/screenshot-result.png" alt="Out of lives"><br><sub>Out of lives</sub></td><td width="50%"><img src="assets/screenshot-how.png" alt="How to play"><br><sub>How to play</sub></td></tr>
+</table>
+
 ## Controls
 
 | Keys | Action |
